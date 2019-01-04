@@ -1,0 +1,35 @@
+{
+  "name": "redux-ts-generator",
+  "version": "1.0.0",
+  "description": "Redux TS Code Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XeroSkill/redux-ts-generator.git"
+  },
+  "author": "Tim Culleton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XeroSkill/redux-ts-generator/issues"
+  },
+  "homepage": "https://github.com/XeroSkill/redux-ts-generator#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "ts-lint": "^4.5.1",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.8.1",
+    "@types/react": "^16.7.18",
+    "@types/react-dom": "^16.0.11",
+    "electron": "^4.0.0",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "resolutions": {
+    "jss": "^10.0.0-alpha.3"
+  }
+}
